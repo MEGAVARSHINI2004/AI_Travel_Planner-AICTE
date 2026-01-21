@@ -1,15 +1,13 @@
-<<<<<<< Updated upstream
 # 🌍 AI Travel Planner
-=======
-🌍 AI Travel Planner
->>>>>>> Stashed changes
+
+🌍 AI Travel Planer
 
 AI Travel Planner is a full-stack web application that helps users generate personalized travel plans using Google Gemini AI.
 It creates smart travel itineraries based on user inputs such as destination, duration, budget, and interests.
 
 This project was developed as part of an AICTE initiative.
 
-<<<<<<< Updated upstream
+Updated upstream
 # 🚀 Features
 
 🧠 AI-powered travel itinerary generation using Google Gemini API
@@ -81,7 +79,7 @@ AI_Travel_Planner/
 ├── .gitignore
 └── README.md
 
-<<<<<<< Updated upstream
+
 # ⚙️ Setup Instructions
 =======
 ⚙️ Setup Instructions
@@ -90,17 +88,14 @@ AI_Travel_Planner/
 git clone https://github.com/MEGAVARSHINI2004/AI_Travel_Planner-AICTE.git
 cd AI_Travel_Planner-AICTE
 
-<<<<<<< Updated upstream
 # 2️⃣ Backend Setup (Flask + Gemini API)
 =======
 2️⃣ Backend Setup (Flask + Gemini API)
->>>>>>> Stashed changes
 cd Backend
 python -m venv venv
 venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 
-<<<<<<< Updated upstream
 Create a .env file inside the Backend folder:
 GEMINI_API_KEY=your_gemini_api_key_here
 
@@ -133,7 +128,6 @@ cd Frontend
 npm install
 npm start
 
-<<<<<<< Updated upstream
 Frontend runs at:
 http://localhost:3000
 
@@ -145,13 +139,11 @@ Frontend runs at:
 http://localhost:3000
 
 🔑 Environment Variables
->>>>>>> Stashed changes
 Variable	Description
 GEMINI_API_KEY	API key for Google Gemini AI
 
 ⚠️ Do not commit .env files to GitHub.
 
-<<<<<<< Updated upstream
 # 🧪 Future Enhancements
 
 User authentication
@@ -180,7 +172,6 @@ Improved UI/UX
 Contributions are welcome!
 Fork the repository and submit a pull request.
 
-<<<<<<< Updated upstream
 # 📜 License
 
 This project is created for educational purposes under the AICTE program.
@@ -198,18 +189,12 @@ This project is created for educational purposes under the AICTE program.
 
 👩‍💻 Author
 
-Megavarshini
-GitHub: MEGAVARSHINI2004
+Megavarshini A
+GitHub: (https://github.com/MEGAVARSHINI2004/)
 
 ⭐ Acknowledgements
->>>>>>> Stashed changes
 
 Google Gemini API
-
 AICTE
+Open-source community
 
-<<<<<<< Updated upstream
-Open-source community
-=======
-Open-source community
->>>>>>> Stashed changes
