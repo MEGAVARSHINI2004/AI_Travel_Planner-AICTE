@@ -96,7 +96,7 @@ This project is created for educational purposes under the AICTE program.
 # 👩‍💻 Author
 
 Megavarshini
-GitHub: (MEGAVARSHINI2004)
+GitHub: (https://github.com/MEGAVARSHINI2004/AI_Travel_Planner-AICTE.git)
 
 # ⭐ Acknowledgements
 
