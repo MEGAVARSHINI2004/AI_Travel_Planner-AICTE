@@ -1,10 +1,15 @@
+<<<<<<< Updated upstream
 # 🌍 AI Travel Planner
+=======
+🌍 AI Travel Planner
+>>>>>>> Stashed changes
 
 AI Travel Planner is a full-stack web application that helps users generate personalized travel plans using Google Gemini AI.
 It creates smart travel itineraries based on user inputs such as destination, duration, budget, and interests.
 
 This project was developed as part of an AICTE initiative.
 
+<<<<<<< Updated upstream
 # 🚀 Features
 
 🧠 AI-powered travel itinerary generation using Google Gemini API
@@ -26,6 +31,40 @@ Google Gemini API
 RESTful APIs
 
 # 📁 Project Structure
+=======
+🚀 Features
+
+🧠 AI-powered travel itinerary generation using Google Gemini API
+
+🌐 Full-stack application (Frontend + Backend)
+
+⚡ User-friendly and responsive interface
+
+🔐 Secure environment variable handling
+
+🧩 Clean and modular project structure
+
+🛠️ Tech Stack
+Frontend
+
+React.js
+
+HTML, CSS, JavaScript
+
+Axios (for API calls)
+
+Backend
+
+Python
+
+Flask
+
+Google Gemini API
+
+RESTful APIs
+
+📁 Project Structure
+>>>>>>> Stashed changes
 AI_Travel_Planner/
 ├── Backend/
 │   ├── app.py
@@ -42,17 +81,26 @@ AI_Travel_Planner/
 ├── .gitignore
 └── README.md
 
+<<<<<<< Updated upstream
 # ⚙️ Setup Instructions
+=======
+⚙️ Setup Instructions
+>>>>>>> Stashed changes
 1️⃣ Clone the Repository
 git clone https://github.com/MEGAVARSHINI2004/AI_Travel_Planner-AICTE.git
 cd AI_Travel_Planner-AICTE
 
+<<<<<<< Updated upstream
 # 2️⃣ Backend Setup (Flask + Gemini API)
+=======
+2️⃣ Backend Setup (Flask + Gemini API)
+>>>>>>> Stashed changes
 cd Backend
 python -m venv venv
 venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 
+<<<<<<< Updated upstream
 Create a .env file inside the Backend folder:
 GEMINI_API_KEY=your_gemini_api_key_here
 
@@ -63,19 +111,47 @@ Backend runs at:
 http://localhost:5000
 
 # 3️⃣ Frontend Setup (React)
+=======
+
+Create a .env file inside the Backend folder:
+
+GEMINI_API_KEY=your_gemini_api_key_here
+
+
+Run the backend server:
+
+python app.py
+
+
+Backend runs at:
+
+http://localhost:5000
+
+3️⃣ Frontend Setup (React)
+>>>>>>> Stashed changes
 cd Frontend
 npm install
 npm start
 
+<<<<<<< Updated upstream
 Frontend runs at:
 http://localhost:3000
 
 # 🔑 Environment Variables
+=======
+
+Frontend runs at:
+
+http://localhost:3000
+
+🔑 Environment Variables
+>>>>>>> Stashed changes
 Variable	Description
 GEMINI_API_KEY	API key for Google Gemini AI
 
 ⚠️ Do not commit .env files to GitHub.
 
+<<<<<<< Updated upstream
 # 🧪 Future Enhancements
 
 User authentication
@@ -85,10 +161,26 @@ Map and location integration
 Improved UI/UX
 
 # 🤝 Contributing
+=======
+🧪 Future Enhancements
+
+User authentication
+
+Save and export travel itineraries
+
+Multi-language support
+
+Map and location integration
+
+Improved UI/UX
+
+🤝 Contributing
+>>>>>>> Stashed changes
 
 Contributions are welcome!
 Fork the repository and submit a pull request.
 
+<<<<<<< Updated upstream
 # 📜 License
 
 This project is created for educational purposes under the AICTE program.
@@ -99,9 +191,25 @@ Megavarshini
 GitHub: (https://github.com/MEGAVARSHINI2004/AI_Travel_Planner-AICTE.git)
 
 # ⭐ Acknowledgements
+=======
+📜 License
+
+This project is created for educational purposes under the AICTE program.
+
+👩‍💻 Author
+
+Megavarshini
+GitHub: MEGAVARSHINI2004
+
+⭐ Acknowledgements
+>>>>>>> Stashed changes
 
 Google Gemini API
 
 AICTE
 
+<<<<<<< Updated upstream
 Open-source community
+=======
+Open-source community
+>>>>>>> Stashed changes
